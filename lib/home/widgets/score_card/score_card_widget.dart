@@ -1,6 +1,6 @@
 import 'package:devquiz/core/app_colors.dart';
 import 'package:devquiz/core/core.dart';
-import 'package:devquiz/widgets/chart/chart_widget.dart';
+import 'package:devquiz/home/widgets/chart/chart_widget.dart';
 import 'package:flutter/material.dart';
 
 class ScoreCardWidget extends StatelessWidget {
